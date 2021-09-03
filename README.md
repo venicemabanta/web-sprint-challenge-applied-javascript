@@ -74,7 +74,7 @@ An event is any kind of interaction within the webpage. Clicks, scrolls, hoverin
 
 3. What is an event listener?
 
-Event listeners are 
+Once an event happens on a page, we can use event listeners and apply them to elements on the page. 
 
 4. Why would we convert a NodeList into an Array?
 5. What is a component?
